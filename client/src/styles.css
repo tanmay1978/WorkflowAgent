@@ -1,0 +1,25 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 300px;
+  padding: 20px;
+  background: #f0f0f0;
+}
+
+.workflow-canvas {
+  flex: 1;
+}
+
+.toolbox, .node-panel {
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+}
