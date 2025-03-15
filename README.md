@@ -1,6 +1,3 @@
-Below is an updated `README.md` file for your Git repository, reflecting the changes to `llmIntegration.js` that now uses the Together AI API for integrating an open-source LLaMA model. This version simplifies the setup process and provides clear instructions tailored to the new approach.
-
----
 
 # Agent Workflow Web Application
 
